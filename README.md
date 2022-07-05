@@ -11,11 +11,11 @@
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)</br>
 ![Vue](https://img.shields.io/badge/Vue-3f4c75?style=for-the-badge&logo=vuedotjs&logoColor=68bd60&labelColor=white)</br>
 ![Vuetify](https://img.shields.io/badge/Vuetify-0095D5?style=for-the-badge&logo=vuetify&logoColor=blue&labelColor=white)</br>
-![Html](https://img.shields.io/badge/Html-3DDC84?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
-![CSS](https://img.shields.io/badge/CSS-3DDC84?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
-![SASS](https://img.shields.io/badge/SASS-3DDC84?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)</br>
-![MYSQL](https://img.shields.io/badge/MYSQL-3DDC84?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010)</br>
-![Prezi](https://img.shields.io/badge/Prezi-3DDC84?style=for-the-badge&logo=prezi&logoColor=white&labelColor=101010)</br>
+![Html](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=orange&labelColor=white)</br>
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=white)</br>
+![SASS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=sass&logoColor=pink&labelColor=white)</br>
+![MYSQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=mariadb&logoColor=brown&labelColor=white)</br>
+![Prezi](https://img.shields.io/badge/Prezi-blue?style=for-the-badge&logo=prezi&logoColor=blue&labelColor=white)</br>
 ### Donde me encuentras:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@Cristiangsc-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Cristiangsc)
