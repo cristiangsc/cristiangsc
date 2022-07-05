@@ -2,6 +2,28 @@
 
 <!--
 **cristiangsc/cristiangsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## Mi nombre es Cristian Sepúlveda Caro
+### Me desempeño con Ingeniero en Informática y Analista de sistemas computacionales con mención en Redes, actualmente trabajo para la Universidad del Bío-Bío.
+Realizo proyectos personales en el área del desarrollo web, me especializo principalmente en el backend y frontend, de todas las tecnologías que conozco me pasión siempre han sido las bases de datos, en especial sql, el poder programar dentro de ellas es algo fascinante.
+Me caracterizo por estar siempre perfeccionandome, realizando cursos, revisando documentación, tutoriales, todo aquello que puede serme de útilidad en mi pasión como desarrollador.
+
+## Mi portafolio
+
+https://cristiangsc.github.io/alfaweb_vue/ </br>
+https://cristiangsc.github.io/usuarios_vue_vuetity/ </br>
+https://cristiangsc.github.io/carrito_vue_vuetity/ </br>
+https://cristiangsc.github.io/Tienda-Xda/ </br>
+https://cristiangsc.github.io/Viajes-Chile/ </br>
+https://cristiangsc.github.io/Desafio-GiGEO/ </br>
+https://cristiangsc.github.io/Desafio-Cuppon/ </br>
+https://cristiangsc.github.io/Desafio-SASS-Houtel/ </br>
+https://cristiangsc.github.io/Mi-emprendimiento-WEB/ </br>
+https://cristiangsc.github.io/Desafio-Ricomida/ </br>
+https://cristiangsc.github.io/Desafio-Veterinaria/ </br>
+https://cristiangsc.github.io/Desafio-Suricata/ </br>
+
+
+
 ## Herramientas:
 ![Laravel](https://img.shields.io/badge/Laravel-orange?style=for-the-badge&logo=laravel&logoColor=orange&labelColor=white)</br>
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=blue&labelColor=white)</br>
