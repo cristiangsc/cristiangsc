@@ -5,5 +5,5 @@
 
 #### Donde me encuentras:
 
-- [Twitter] (https://twitter.com/Cristiangsc)
-- [Linkedin] (https://www.linkedin.com/in/cristian-sepulveda-caro-021147235/)
+[![Twitter] (https://twitter.com/Cristiangsc)
+[![Linkedin] (https://img.sheilds.io/badge/LinkedIn-cristian-sepulveda-caro-021147235?style=for-the-badge&logo=linkeind&logoColor=white&labelColor=101010)]
