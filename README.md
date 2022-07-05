@@ -12,7 +12,7 @@ Me caracterizo por estar siempre perfeccionandome, realizando cursos, revisando 
 APP realizada en VUE 2 + vuetity https://cristiangsc.github.io/alfaweb_vue/ </br>
 APP realizada en VUE 2 + vuetity https://cristiangsc.github.io/usuarios_vue_vuetity/ </br>
 APP realizada en VUE 2 + vuetity https://cristiangsc.github.io/carrito_vue_vuetity/ </br>
-APP realizada en Ruby on Rails https://revalorarte.herokuapp.com/ </br>
+APP realizada en Ruby on Rails https://revalorarte.herokuapp.com/ (datos de usuario de prueba cristiangsc@gmail.com - pass:123456)</br>
 APP realizada en HTML + SASS https://cristiangsc.github.io/Tienda-Xda/ </br>
 APP realizada en HTML + CSS https://cristiangsc.github.io/Viajes-Chile/ </br>
 APP realizada en HTML + CSS https://cristiangsc.github.io/Desafio-GiGEO/ </br>
