@@ -26,19 +26,19 @@ APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Desafio-Suric
 
 
 ## Herramientas:
-![Laravel](https://img.shields.io/badge/Laravel-orange?style=for-the-badge&logo=laravel&logoColor=orange&labelColor=white)
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=blue&labelColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-blue?style=for-the-badge&logo=livewire&logoColor=dd42f5&labelColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=yellow)
-![RubyonRails](https://img.shields.io/badge/Ruby_On_Rails-white?style=for-the-badge&logo=rubyonrails&logoColor=white&labelColor=red)
-![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)
-![Vue](https://img.shields.io/badge/Vue-3f4c75?style=for-the-badge&logo=vuedotjs&logoColor=68bd60&labelColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-0095D5?style=for-the-badge&logo=vuetify&logoColor=blue&labelColor=white)
-![Html](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=orange&labelColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=white)
-![SASS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=sass&logoColor=pink&labelColor=white)
-![MYSQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=mariadb&logoColor=brown&labelColor=white)
-![Prezi](https://img.shields.io/badge/Prezi-blue?style=for-the-badge&logo=prezi&logoColor=blue&labelColor=white)
+[![Laravel](https://img.shields.io/badge/Laravel-orange?style=for-the-badge&logo=laravel&logoColor=orange&labelColor=white)](www.laravel.com)
+[![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=blue&labelColor=white)](https://www.php.net/)
+[![Livewire](https://img.shields.io/badge/Livewire-blue?style=for-the-badge&logo=livewire&logoColor=dd42f5&labelColor=white)](https://laravel-livewire.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=yellow)](https://www.javascript.com/)
+[![RubyonRails](https://img.shields.io/badge/Ruby_On_Rails-white?style=for-the-badge&logo=rubyonrails&logoColor=white&labelColor=red)](https://rubyonrails.org/)
+[![Vue](https://img.shields.io/badge/Vue-3f4c75?style=for-the-badge&logo=vuedotjs&logoColor=68bd60&labelColor=white)](https://vuejs.org/)
+[![Vuetify](https://img.shields.io/badge/Vuetify-0095D5?style=for-the-badge&logo=vuetify&logoColor=blue&labelColor=white)](https://vuetifyjs.com/)
+[![Html](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=orange&labelColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=white)](https://desarrolloweb.com/manuales/css3.html)
+[![SASS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=sass&logoColor=pink&labelColor=white)](https://sass-lang.com/)
+[![MYSQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=mariadb&logoColor=brown&labelColor=white)](https://www.mysql.com/)
+[![Prezi](https://img.shields.io/badge/Prezi-blue?style=for-the-badge&logo=prezi&logoColor=blue&labelColor=white)](https://prezi.com/es/)
+[![Excel](https://img.shields.io/badge/Excel_Avanzado-green?style=for-the-badge&logo=microsoftexcel&logoColor=green&labelColor=white)](https://www.microsoft.com/es-es/microsoft-365/excel)
 ### Donde me encuentras:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@Cristiangsc-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Cristiangsc)
