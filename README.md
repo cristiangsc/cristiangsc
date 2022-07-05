@@ -7,10 +7,10 @@
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=blue&labelColor=white)</br>
 ![Livewire](https://img.shields.io/badge/Livewire-blue?style=for-the-badge&logo=livewire&logoColor=dd42f5&labelColor=white)</br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=yellow)</br>
-![RubyonRails](https://img.shields.io/badge/Ruby_On_Rails-black?style=for-the-badge&logo=rubyonrails&logoColor=black&labelColor=yellow)</br>
+![RubyonRails](https://img.shields.io/badge/Ruby_On_Rails-white?style=for-the-badge&logo=rubyonrails&logoColor=white&labelColor=red)</br>
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)</br>
-![Vue](https://img.shields.io/badge/Vue-0095D5?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=101010)</br>
-![Vuetify](https://img.shields.io/badge/Vuetify-0095D5?style=for-the-badge&logo=vuetify&logoColor=white&labelColor=101010)</br>
+![Vue](https://img.shields.io/badge/Vue-3f4c75?style=for-the-badge&logo=vuedotjs&logoColor=68bd60&labelColor=white)</br>
+![Vuetify](https://img.shields.io/badge/Vuetify-0095D5?style=for-the-badge&logo=vuetify&logoColor=blue&labelColor=white)</br>
 ![Html](https://img.shields.io/badge/Html-3DDC84?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
 ![CSS](https://img.shields.io/badge/CSS-3DDC84?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
 ![SASS](https://img.shields.io/badge/SASS-3DDC84?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)</br>
