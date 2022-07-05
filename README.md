@@ -9,19 +9,19 @@ Me caracterizo por estar siempre perfeccionandome, realizando cursos, revisando 
 
 ## Mi portafolio
 
-APP realizada en VUE 2 + vuetity https://cristiangsc.github.io/alfaweb_vue/ </br>
-APP realizada en VUE 2 + vuetity https://cristiangsc.github.io/usuarios_vue_vuetity/ </br>
-APP realizada en VUE 2 + vuetity https://cristiangsc.github.io/carrito_vue_vuetity/ </br>
-APP realizada en Ruby on Rails https://revalorarte.herokuapp.com/ (datos de usuario de prueba cristiangsc@gmail.com - pass:123456)</br>
-APP realizada en HTML + SASS https://cristiangsc.github.io/Tienda-Xda/ </br>
-APP realizada en HTML + CSS https://cristiangsc.github.io/Viajes-Chile/ </br>
-APP realizada en HTML + CSS https://cristiangsc.github.io/Desafio-GiGEO/ </br>
-APP realizada en HTML + CSS https://cristiangsc.github.io/Desafio-Cuppon/ </br>
-APP realizada en HTML + SASS https://cristiangsc.github.io/Desafio-SASS-Houtel/ </br>
-APP realizada en HTML + SASS https://cristiangsc.github.io/Mi-emprendimiento-WEB/ </br>
-APP realizada en HTML + CSS https://cristiangsc.github.io/Desafio-Ricomida/ </br>
-APP realizada en HTML + CSS https://cristiangsc.github.io/Desafio-Veterinaria/ </br>
-APP realizada en HTML + CSS https://cristiangsc.github.io/Desafio-Suricata/ </br>
+APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/alfaweb_vue/" target="_blank">AlfaWeb</a> </br>
+APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/usuarios_vue_vuetity/" target="_blank">Crud Usuarios</a> </br>
+APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/carrito_vue_vuetity/" target="_blank">Carrito de compras</a> </br>
+APP realizada en Ruby on Rails <a href="https://revalorarte.herokuapp.com/" target="_blank">Revalorarte</a> (datos de usuario de prueba cristiangsc@gmail.com - pass:123456)</br>
+APP realizada en HTML + SASS <a href="https://cristiangsc.github.io/Tienda-Xda/" target="_blank">Tienda-Xda</a> </br>
+APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Viajes-Chile/" target="_blank">Viajes-Chile</a> </br>
+APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Desafio-GiGEO/" target="_blank">GIGEO</a> </br>
+APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Desafio-Cuppon/" target="_blank">CUPPON</a> </br>
+APP realizada en HTML + SASS <a href="https://cristiangsc.github.io/Desafio-SASS-Houtel/" target="_blank">Hostel</a> </br>
+APP realizada en HTML + SASS <a href="https://cristiangsc.github.io/Mi-emprendimiento-WEB/" target="_blank">Emprendimiento Web</a> </br>
+APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Desafio-Ricomida/" target="_blank">Ricomida</a> </br>
+APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Desafio-Veterinaria/" target="_blank">Veterinaria</a> </br>
+APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Desafio-Suricata/" target="_blank">Suricata</a> </br>
 
 
 
@@ -42,4 +42,4 @@ APP realizada en HTML + CSS https://cristiangsc.github.io/Desafio-Suricata/ </br
 ### Donde me encuentras:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@Cristiangsc-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Cristiangsc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Sepulveda_Caro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristian-sepulveda-caro-021147235/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Sepulveda_Caro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](<a href="https://www.linkedin.com/in/cristian-sepulveda-caro-021147235/" target="_blank"></a>)
