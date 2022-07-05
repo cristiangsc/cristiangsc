@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**cristiangsc/cristiangsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cristiangsc/cristiangsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 #### Donde me encuentras:
 
