@@ -33,6 +33,7 @@ APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Desafio-Suric
 [![RubyonRails](https://img.shields.io/badge/Ruby_On_Rails-white?style=for-the-badge&logo=rubyonrails&logoColor=white&labelColor=red)](https://rubyonrails.org/)
 [![Vue](https://img.shields.io/badge/Vue-3f4c75?style=for-the-badge&logo=vuedotjs&logoColor=68bd60&labelColor=white)](https://vuejs.org/)
 [![Vuetify](https://img.shields.io/badge/Vuetify-0095D5?style=for-the-badge&logo=vuetify&logoColor=blue&labelColor=white)](https://vuetifyjs.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-0095D5?style=for-the-badge&logo=bootstrap&logoColor=blue&labelColor=white)](https://bootstrap.com/)
 [![Html](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=orange&labelColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=white)](https://desarrolloweb.com/manuales/css3.html)
 [![SASS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=sass&logoColor=pink&labelColor=white)](https://sass-lang.com/)
