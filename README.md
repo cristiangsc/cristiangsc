@@ -9,18 +9,19 @@ Me caracterizo por estar siempre perfeccionandome, realizando cursos, revisando 
 
 ## Mi portafolio
 
-https://cristiangsc.github.io/alfaweb_vue/ </br>
-https://cristiangsc.github.io/usuarios_vue_vuetity/ </br>
-https://cristiangsc.github.io/carrito_vue_vuetity/ </br>
-https://cristiangsc.github.io/Tienda-Xda/ </br>
-https://cristiangsc.github.io/Viajes-Chile/ </br>
-https://cristiangsc.github.io/Desafio-GiGEO/ </br>
-https://cristiangsc.github.io/Desafio-Cuppon/ </br>
-https://cristiangsc.github.io/Desafio-SASS-Houtel/ </br>
-https://cristiangsc.github.io/Mi-emprendimiento-WEB/ </br>
-https://cristiangsc.github.io/Desafio-Ricomida/ </br>
-https://cristiangsc.github.io/Desafio-Veterinaria/ </br>
-https://cristiangsc.github.io/Desafio-Suricata/ </br>
+APP realizada en VUE 2 + vuetity https://cristiangsc.github.io/alfaweb_vue/ </br>
+APP realizada en VUE 2 + vuetity https://cristiangsc.github.io/usuarios_vue_vuetity/ </br>
+APP realizada en VUE 2 + vuetity https://cristiangsc.github.io/carrito_vue_vuetity/ </br>
+APP realizada en Ruby on Rails https://revalorarte.herokuapp.com/ </br>
+APP realizada en HTML + SASS https://cristiangsc.github.io/Tienda-Xda/ </br>
+APP realizada en HTML + CSS https://cristiangsc.github.io/Viajes-Chile/ </br>
+APP realizada en HTML + CSS https://cristiangsc.github.io/Desafio-GiGEO/ </br>
+APP realizada en HTML + CSS https://cristiangsc.github.io/Desafio-Cuppon/ </br>
+APP realizada en HTML + SASS https://cristiangsc.github.io/Desafio-SASS-Houtel/ </br>
+APP realizada en HTML + SASS https://cristiangsc.github.io/Mi-emprendimiento-WEB/ </br>
+APP realizada en HTML + CSS https://cristiangsc.github.io/Desafio-Ricomida/ </br>
+APP realizada en HTML + CSS https://cristiangsc.github.io/Desafio-Veterinaria/ </br>
+APP realizada en HTML + CSS https://cristiangsc.github.io/Desafio-Suricata/ </br>
 
 
 
