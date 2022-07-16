@@ -8,7 +8,7 @@ Realizo proyectos personales en el área del desarrollo web, me especializo prin
 Me caracterizo por estar siempre perfeccionandome, en constante aprendizaje, realizando cursos, revisando documentación, tutoriales, todo aquello que puede serme de utilidad en mi pasión como desarrollador.
 
 ## Mi portafolio
-
+APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/Vinos-Chile-Deploy/" target="_blank">Vinos Mi Chile</a> </br>
 APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/alfaweb_vue/" target="_blank">AlfaWeb</a> </br>
 APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/usuarios_vue_vuetity/" target="_blank">Crud Usuarios</a> </br>
 APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/carrito_vue_vuetity/" target="_blank">Carrito de compras</a> </br>
