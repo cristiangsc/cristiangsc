@@ -30,7 +30,7 @@ APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Desafio-Suric
 [![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=blue&labelColor=white)](https://www.php.net/)
 [![Livewire](https://img.shields.io/badge/Livewire-blue?style=for-the-badge&logo=livewire&logoColor=dd42f5&labelColor=white)](https://laravel-livewire.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=yellow)](https://www.javascript.com/)
-[![Node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=nodejs&logoColor=black&labelColor=green)](https://nodejs.org/es)
+[![Node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=black&labelColor=green)](https://nodejs.org/es)
 [![Sequelize](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=sequelize&logoColor=blue&labelColor=white)](https://sequelize.org/)
 [![RubyonRails](https://img.shields.io/badge/Ruby_On_Rails-white?style=for-the-badge&logo=rubyonrails&logoColor=white&labelColor=red)](https://rubyonrails.org/)
 [![Vue](https://img.shields.io/badge/Vue-3f4c75?style=for-the-badge&logo=vuedotjs&logoColor=68bd60&labelColor=white)](https://vuejs.org/)
