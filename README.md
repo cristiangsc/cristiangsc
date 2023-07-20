@@ -38,6 +38,7 @@ APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Desafio-Suric
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=white)](https://desarrolloweb.com/manuales/css3.html)
 [![SASS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=sass&logoColor=pink&labelColor=white)](https://sass-lang.com/)
 [![MYSQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=mariadb&logoColor=brown&labelColor=white)](https://www.mysql.com/)
+[![POSTGRESQL](https://img.shields.io/badge/POSTGRES-orange?style=for-the-badge&logo=postgres&logoColor=brown&labelColor=white)](https://www.postgresql.org/)
 [![Prezi](https://img.shields.io/badge/Prezi-blue?style=for-the-badge&logo=prezi&logoColor=blue&labelColor=white)](https://prezi.com/es/)
 [![Excel](https://img.shields.io/badge/Excel_Avanzado-green?style=for-the-badge&logo=microsoftexcel&logoColor=green&labelColor=white)](https://www.microsoft.com/es-es/microsoft-365/excel)
 ### Donde me encuentras:
