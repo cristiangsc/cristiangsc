@@ -30,6 +30,8 @@ APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Desafio-Suric
 [![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=blue&labelColor=white)](https://www.php.net/)
 [![Livewire](https://img.shields.io/badge/Livewire-blue?style=for-the-badge&logo=livewire&logoColor=dd42f5&labelColor=white)](https://laravel-livewire.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=yellow)](https://www.javascript.com/)
+[![Node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=nodejs&logoColor=black&labelColor=green)](https://nodejs.org/es)
+[![Sequelize](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=sequelize&logoColor=blue&labelColor=white)](https://sequelize.org/)
 [![RubyonRails](https://img.shields.io/badge/Ruby_On_Rails-white?style=for-the-badge&logo=rubyonrails&logoColor=white&labelColor=red)](https://rubyonrails.org/)
 [![Vue](https://img.shields.io/badge/Vue-3f4c75?style=for-the-badge&logo=vuedotjs&logoColor=68bd60&labelColor=white)](https://vuejs.org/)
 [![Vuetify](https://img.shields.io/badge/Vuetify-0095D5?style=for-the-badge&logo=vuetify&logoColor=blue&labelColor=white)](https://vuetifyjs.com/)
@@ -38,7 +40,7 @@ APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Desafio-Suric
 [![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=white)](https://desarrolloweb.com/manuales/css3.html)
 [![SASS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=sass&logoColor=pink&labelColor=white)](https://sass-lang.com/)
 [![MYSQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=mariadb&logoColor=brown&labelColor=white)](https://www.mysql.com/)
-[![POSTGRESQL](https://img.shields.io/badge/POSTGRES-orange?style=for-the-badge&logo=postgres&logoColor=brown&labelColor=white)](https://www.postgresql.org/)
+[![POSTGRESQL](https://img.shields.io/badge/POSTGRES-orange?style=for-the-badge&logo=postgresql&logoColor=brown&labelColor=white)](https://www.postgresql.org/)
 [![Prezi](https://img.shields.io/badge/Prezi-blue?style=for-the-badge&logo=prezi&logoColor=blue&labelColor=white)](https://prezi.com/es/)
 [![Excel](https://img.shields.io/badge/Excel_Avanzado-green?style=for-the-badge&logo=microsoftexcel&logoColor=green&labelColor=white)](https://www.microsoft.com/es-es/microsoft-365/excel)
 ### Donde me encuentras:
