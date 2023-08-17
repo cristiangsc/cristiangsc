@@ -8,11 +8,11 @@ Realizo proyectos personales en el área del desarrollo web, me especializo prin
 Me caracterizo por estar siempre perfeccionandome, en constante aprendizaje, realizando cursos, revisando documentación, tutoriales, todo aquello que puede serme de utilidad en mi pasión como desarrollador.
 
 ## Mi portafolio
+APP realizada en Laravel + bootstrap + Mysql <a href="https://www.afunabbconcepcion.cl" target="_blank> Asociación de Funcionario Universidad del Bío-Bío </a> </br>
 APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/Vinos-Chile-Deploy/" target="_blank">Vinos Mi Chile</a> </br>
 APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/alfaweb_vue/" target="_blank">AlfaWeb</a> </br>
 APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/usuarios_vue_vuetity/" target="_blank">Crud Usuarios</a> </br>
 APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/carrito_vue_vuetity/" target="_blank">Carrito de compras</a> </br>
-APP realizada en Ruby on Rails <a href="https://revalorarte.herokuapp.com/" target="_blank">Revalorarte</a> (datos de usuario de prueba cristiangsc@gmail.com - pass:123456)</br>
 APP realizada en HTML + SASS <a href="https://cristiangsc.github.io/Tienda-Xda/" target="_blank">Tienda-Xda</a> </br>
 APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Viajes-Chile/" target="_blank">Viajes-Chile</a> </br>
 APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Desafio-GiGEO/" target="_blank">GIGEO</a> </br>
