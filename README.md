@@ -8,6 +8,7 @@ Realizo proyectos personales en el área del desarrollo web, me especializo prin
 Me caracterizo por estar siempre perfeccionandome, en constante aprendizaje, realizando cursos, revisando documentación, tutoriales, todo aquello que puede serme de utilidad en mi pasión como desarrollador.
 
 ## Mi portafolio
+APP realizada con HTML - CSS - api star wars <a href="https://cristiangsc.github.io/api-star-wars" target="_blank">Ejercicio API Star Wars</a> </br>
 APP realizada en Laravel + Mysql <a href="https://www.afunabbconcepcion.cl" target="_blank"> Asociación de Funcionario Universidad del Bío-Bío </a> </br>
 APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/Vinos-Chile-Deploy/" target="_blank">Vinos Mi Chile</a> </br>
 APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/alfaweb_vue/" target="_blank">AlfaWeb</a> </br>
