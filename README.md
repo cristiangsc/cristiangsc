@@ -4,8 +4,8 @@
 **cristiangsc/cristiangsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Mi nombre es Cristian Sepúlveda Caro
 ### De profesión Ingeniero en Informática y Analista de sistemas computacionales con mención en Redes, actualmente trabajo para la Universidad del Bío-Bío.
-Realizo proyectos personales en el área del desarrollo web, me especializo principalmente en el backend y frontend, de las tecnologías que conozco mi pasión siempre han sido las bases de datos, en especial sql, el poder programar dentro de ellas es algo fascinante!!!
-Me caracterizo por estar siempre perfeccionandome, en constante aprendizaje, realizando cursos, revisando documentación, tutoriales, todo aquello que puede serme de utilidad en mi pasión como desarrollador.
+Realizo proyectos personales en el área del desarrollo web, con especial enfoque tanto en el backend como en el frontend. Sin embargo, de todas las tecnologías que manejo, mi verdadera pasión son las bases de datos, especialmente SQL; me resulta fascinante poder programar dentro de ellas.
+Me caracterizo por estar en constante proceso de perfeccionamiento y aprendizaje. Dedico tiempo a realizar cursos, leer documentación, seguir tutoriales y explorar todo recurso que pueda enriquecerme como desarrollador.
 
 ## Mi portafolio
 APP realizada con HTML-CSS-JS <a href="https://cristiangsc.github.io/api-star-wars" target="_blank">Ejercicio básico API Star Wars</a> </br>
