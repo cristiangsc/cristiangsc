@@ -5,7 +5,9 @@
 ## Mi nombre es Cristian Sepúlveda Caro
 ### De profesión Ingeniero en Informática y Analista de sistemas computacionales con mención en Redes, actualmente trabajo para la Universidad del Bío-Bío.
 Realizo proyectos personales en el área del desarrollo web, con especial enfoque tanto en el backend como en el frontend. Sin embargo, de todas las tecnologías que manejo, mi verdadera pasión son las bases de datos, especialmente SQL; me resulta fascinante poder programar dentro de ellas.
+Tengo experiencia en limpieza, análisis y visualización de datos utilizando herramientas como Python, SQL, Excel y Power BI.
 Me caracterizo por estar en constante proceso de perfeccionamiento y aprendizaje. Dedico tiempo a realizar cursos, leer documentación, seguir tutoriales y explorar todo recurso que pueda enriquecerme como desarrollador.
+Me motiva resolver problemas reales con datos y comunicar hallazgos de manera clara y visual. Actualmente, continúo fortaleciendo mis habilidades en ciencia de datos y machine learning, con el objetivo de aportar más valor a las organizaciones basándome en evidencia.
 
 ## Mi portafolio
 APP realizada con HTML-CSS-JS <a href="https://cristiangsc.github.io/presupuesto" target="_blank">Ejercicio básico Presupuesto</a> </br>
@@ -44,6 +46,7 @@ APP realizada en HTML + CSS <a href="https://cristiangsc.github.io/Desafio-Suric
 [![POSTGRESQL](https://img.shields.io/badge/POSTGRES-orange?style=for-the-badge&logo=postgresql&logoColor=brown&labelColor=white)](https://www.postgresql.org/)
 [![Prezi](https://img.shields.io/badge/Prezi-blue?style=for-the-badge&logo=prezi&logoColor=blue&labelColor=white)](https://prezi.com/es/)
 [![Excel](https://img.shields.io/badge/Excel_Avanzado-green?style=for-the-badge&logo=microsoftexcel&logoColor=green&labelColor=white)](https://www.microsoft.com/es-es/microsoft-365/excel)
+[![Python](https://img.shields.io/badge/Python_Avanzado-green?style=for-the-badge&logo=Python&logoColor=green&labelColor=white)](https://www.python.org/)
 ### Donde me encuentras:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@Cristiangsc-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Cristiangsc)
