@@ -41,13 +41,19 @@ Pie chart: Métodos de pago
 Mapa de calor: Ingresos por región
 
 🛠️ Herramientas Utilizadas
+</br>
 Python (Pandas, Matplotlib, Seaborn)
+</br>
 Excel (para revisión de datos)
+</br>
 Power BI (dashboard interactivo)
+</br>
 Jupyter Notebook (para análisis exploratorio)
-GitHub (repositorio del proyecto <a href="https://github.com/cristiangsc/analisis-ventas-tienda" target="_blank">)
-
+</br>
+GitHub <a href="https://github.com/cristiangsc/analisis-ventas-tienda" target="_blank">analisis-ventas-tienda</a>
+</br>
 Resultado: Reporte con recomendaciones para anfitriones sobre precios competitivos.
+</br>
 
 APP realizada con HTML-CSS-JS <a href="https://cristiangsc.github.io/presupuesto" target="_blank">Ejercicio básico Presupuesto</a> </br>
 APP realizada en Laravel + Mysql <a href="https://www.afunabbconcepcion.cl" target="_blank"> Asociación de Funcionario Universidad del Bío-Bío </a> </br>
