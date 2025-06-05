@@ -10,6 +10,45 @@ Me caracterizo por estar en constante proceso de perfeccionamiento y aprendizaje
 Me motiva resolver problemas reales con datos y comunicar hallazgos de manera clara y visual. Actualmente, continúo fortaleciendo mis habilidades en ciencia de datos y machine learning, con el objetivo de aportar más valor a las organizaciones basándome en evidencia.
 
 ## Mi portafolio
+Ejemplos de Proyectos
+📊 Análisis de Ventas de una Tienda Online
+Objetivo: Analizar ventas por producto, estacionalidad y comportamiento de clientes.
+
+Herramientas: Excel + Power BI
+
+Resultado: Dashboard con ventas mensuales, top productos, clientes frecuentes.
+
+📈 Predicción de Churn en Clientes de Telefonía
+Objetivo: Identificar qué clientes podrían dejar el servicio.
+Resultado: Modelo de clasificación con 85% de accuracy. Insights sobre factores de fuga.
+
+🔍 Proceso de Análisis
+1. Limpieza de Datos
+Eliminación de duplicados
+Conversión de fechas
+Detección de valores nulos y outliers
+2. Análisis Exploratorio (EDA)
+Ventas totales por mes
+Productos más vendidos
+Comparación por categorías
+Formas de pago más usadas
+Regiones con más ventas
+
+3. Visualización
+Gráfico de barras: Ventas por categoría
+Línea de tiempo: Evolución mensual
+Pie chart: Métodos de pago
+Mapa de calor: Ingresos por región
+
+🛠️ Herramientas Utilizadas
+Python (Pandas, Matplotlib, Seaborn)
+Excel (para revisión de datos)
+Power BI (dashboard interactivo)
+Jupyter Notebook (para análisis exploratorio)
+GitHub (repositorio del proyecto <a href="https://github.com/cristiangsc/analisis-ventas-tienda" target="_blank">)
+
+Resultado: Reporte con recomendaciones para anfitriones sobre precios competitivos.
+
 APP realizada con HTML-CSS-JS <a href="https://cristiangsc.github.io/presupuesto" target="_blank">Ejercicio básico Presupuesto</a> </br>
 APP realizada en Laravel + Mysql <a href="https://www.afunabbconcepcion.cl" target="_blank"> Asociación de Funcionario Universidad del Bío-Bío </a> </br>
 APP realizada en VUE 2 + vuetity <a href="https://cristiangsc.github.io/Vinos-Chile-Deploy/" target="_blank">Vinos Mi Chile</a> </br>
